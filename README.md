@@ -47,8 +47,4 @@ To modify:
 ## License 📄
 MIT License - Free to use and modify
 
-Enjoy creating! 🎨✨
 
----
-
-**Note:** The complete code implementation is contained in the previous single HTML block with embedded CSS and JavaScript.
